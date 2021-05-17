@@ -1,1 +1,39 @@
 /* styles go here */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.name__block,
+.age__block,
+.date__birth,
+.accept,
+.email__block,
+.password__block,
+.question-1,
+.question-2,
+.question-3,
+.question-4,
+.question5,
+.comments,
+.recomend,
+.accept-bl {
+  margin-top: 10px;
+}
+
+.accept-bl,
+.password__block,
+.question5,
+.recomend {
+  margin-bottom: 10px;
+}
+
+p {
+  display: inline-block;
+}
